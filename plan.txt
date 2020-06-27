@@ -1,0 +1,32 @@
+Languages 
+1. html & css
+	#MiniProjects
+	i)   portfolio
+	ii)   tribute page
+	iii)  login page
+	iv) ragistration form
+
+
+
+
+2. java
+	#MiniProjects
+	?????????	
+
+
+
+3. Android
+	#MiniProject
+	i) DBATU Question Paper
+		
+4. javascript
+	#MiniProjects
+	?????????
+
+
+ 
+5. python
+	#MiniProjects
+	?????????
+
+6.AdobeXD, Figama, Sketch
